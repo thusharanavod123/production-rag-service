@@ -1,0 +1,4 @@
+Enterprise Remote Work Infrastructure Policy. 
+Section 1.1: All engineers accessing production cloud environments from home must connect via the corporate authenticated VPN. 
+Multi-Factor Authentication (MFA) is strictly required for all sessions.
+Failure to comply will result in immediate revocation of infrastructure credentials.
